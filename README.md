@@ -1,9 +1,9 @@
 # ML-ChurnPrediction
 
-Overview
+Overview:
 This project aims to analyze customer churn using exploratory data analysis (EDA) and machine learning models. We explore various factors influencing churn and build predictive models to identify potential churners.
 
-Key Points
+Key Points:
 Exploratory Data Analysis (EDA):
 
 Detailed analysis of customer demographics, behavior, and churn patterns.
